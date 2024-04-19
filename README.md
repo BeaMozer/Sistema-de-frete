@@ -1,6 +1,8 @@
 # Sistema-de-frete
 Lógica de Negócio: Sistema de Agendamento de Frete
 
+O Sistema faz o encontro do cliente que precisa de um frete com o motorista.
+
 •	O sistema permite o cadastro de motoristas parceiros de frete e clientes.
 •	O cliente fornecerá informações sobre o peso aproximado.
 •	O sistema identificará os motoristas parceiros que melhor atendem aos critérios definidos pelo cliente. 
