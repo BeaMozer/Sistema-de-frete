@@ -72,7 +72,6 @@ const showSummary = (user, chosenDriver) => {
   }
 
   const summary = `
-Resumo do transporte:
 Cliente: ${user}
 Motorista: ${driver.name}
 CPF do motorista: ${driver.cpf}
